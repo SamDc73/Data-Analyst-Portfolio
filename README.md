@@ -4,7 +4,7 @@
 
 # SQL
 | Project Link | Area | Project Description |
-|---|---|---|---|
+|---|---|---|
 | Maternal Health Analysis | Health | Analyzing maternal health data to identify top trends in maternal health,  differences between states and how that different factors may affect the embryo health | 
 
 # Python
