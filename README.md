@@ -5,7 +5,8 @@
 # SQL
 | Project Link | Area | Project Description |
 |---|---|---|
-| Maternal Health Analysis | Health | Analyzing maternal health data to identify top trends in maternal health,  differences between states and how that different factors may affect the embryo health | 
+| Maternal Health | Health | Analyzing maternal health data to identify top trends in maternal health,  differences between states and how that different factors may affect the embryo health | 
+| Birth Metrics | Health | Analyzing natality 2022 data to identify trends in prenatal care, maternal behaviors, and their effects on newborn health |
 
 # Python
 | Project Link | Area | Project Description | Libraries |    
